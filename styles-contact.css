@@ -142,6 +142,8 @@ table {
 
 /* ---------- This is the beginning of my 201 Contact Web Page Project ------------ */
 
+
+
 html,
 body {
 	height: 100%;
@@ -201,6 +203,8 @@ p {
 	color: #c8c8f4;
 }
 
+
+
 nav {
 
 	font-family: 'PT Serif', serif;
@@ -210,6 +214,7 @@ nav {
 	text-align: center;
 	margin-top: 2em;
 }
+
 
 nav li {
 	display: inline-block;
@@ -226,14 +231,10 @@ a {
 	color: rgb(147, 248, 238)
 }
 
+
+
 a:hover {
 	color: rgb(18, 5, 5);
 	background: rgb(225, 194, 199);
 }
 
-a:hover
-{
-        -webkit-transform: scale(1.3);
-        -ms-transform: scale(1.3);
-        transform: scale(1.3);
-}
